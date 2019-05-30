@@ -1,20 +1,18 @@
-# Data Science Portfolio
+## Data Science Portfolio
 
-<p align="center">
+<!-- <p align="center">
   <img width="600" height="325" src="https://github.com/kammybdeng/data-science-portfolio/blob/master/img/word-cloud3.v2.png">
-</p>
-
+</p> -->
 
 This repository is mainly used as my own reference for interview preparation. However, if you find it helpful or interesting, feel free to contact me on LinkedIn for any questions or comments!
 
-You can build a wordcloud too! See my code [here](https://github.com/kammybdeng/data-science-portfolio/blob/master/extra/wordcloud.py).
+<!-- You can build a wordcloud too! See my code [here](https://github.com/kammybdeng/data-science-portfolio/blob/master/extra/wordcloud.py). -->
 
-## Contents
+<!-- ## Contents
 - [Data Science Concepts](#Data-Science-Concepts)
 - [UCSanDiegoX CSE100x (Data Structure)](#UCSanDiegoX-CSE100x-Data-Structure)
 - [Database and SQL](#Database-and-SQL)
-- [Projects and more practices](#Data-Science-Projects)
-
+- [Projects and more practices](#Data-Science-Projects) -->
 
 
 ## Data Science Concepts
