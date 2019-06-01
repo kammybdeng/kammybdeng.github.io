@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Welcome
-description: Welcome to my portfolio. This page is still under development.
+title: Aspiring Data Scientists
+description: Welcome to my portfolio! This page is still under development.
 ---
 ## Data Science Portfolio
 
@@ -9,7 +9,7 @@ description: Welcome to my portfolio. This page is still under development.
   <img width="600" height="325" src="https://github.com/kammybdeng/data-science-portfolio/blob/master/img/word-cloud3.v2.png">
 </p> -->
 
-This repository is mainly used for my own reference for interview preparation. However, if you find it helpful or interesting, feel free to contact me on LinkedIn for any questions or comments!
+Welcome! This website is still under development. The content was transferred from one of my github repositories. The original intention of the repository was to track my own progress and use it as reference for interviews, so please forgive some grammatical errors and typos. I'm now trying to create a professional portfolio and publish the contents, so feel free to check in again to see my updates! You can also contact me on [LinkedIn](https://www.linkedin.com/in/kammy-deng/) for any questions or comments!
 
 <!-- You can build a wordcloud too! See my code [here](https://github.com/kammybdeng/data-science-portfolio/blob/master/extra/wordcloud.py). -->
 
@@ -23,15 +23,16 @@ This repository is mainly used for my own reference for interview preparation. H
 ## Data Science Concepts
 
 - [General Data Science Concepts](https://github.com/kammybdeng/data-science-notes/blob/master/general_notes/Data_Science_notes.ipynb)
-  - Practical business concepts of data problems.
+  - Practical business concepts of data problems (still under development).
 
 - [Statistics](https://github.com/kammybdeng/dsi-interview-prep/blob/master/Stats%20Concepts.ipynb)
-  - Statistics is often used to generate inference hypothesis in our data.
+  - Statistics is often used to generate inference hypothesis in our data (still under development).
 
 - [Probability Modeling](https://github.com/kammybdeng/dsi-interview-prep/blob/master/probability%20simulations.ipynb)
-  - Probability is the fundamentals of Statistics. By understanding the behavior of the data distributions, we can justify our methods of statistical analysis.
+  - Probability is the fundamentals of Statistics. By understanding the behavior of the data distributions, we can justify our methods of statistical analysis (**still under development**).
 
-- [Data Structure](https://github.com/kammybdeng/data-science-portfolio/blob/master/data-structure.md)
+- [Data Structure Explained](https://github.com/kammybdeng/data-science-portfolio/blob/master/data-structure.md)
+  - I'm currently taking this course online. Check out my notes and progress in the link above!
   - [Link to course](https://stepik.org/course/579/)
 
 ## Database and SQL
@@ -46,4 +47,4 @@ This repository is mainly used for my own reference for interview preparation. H
   - A repository consists of take home exercises from the book, "A collection of Data Science Take-homes.
 
 - [Python Challenges](https://github.com/kammybdeng/dsi-interview-prep/blob/master/python%20challenge/Python%20challenges.ipynb)
-  - Python Challenges from various sources.
+  - Python Challenges from leetcode, codewar and more.
