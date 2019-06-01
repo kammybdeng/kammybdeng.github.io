@@ -1,7 +1,5 @@
 theme: jekyll-theme-cayman
-
 title: Kammy's Data Science Portfolio!
-description: "Data Science, Machine Learning, NLP and more"
-
+description: Data Science, Machine Learning, NLP and more
 show_downloads: false
-# google_analytics:
+google_analytics:
