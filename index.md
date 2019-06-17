@@ -1,15 +1,21 @@
 ---
 layout: default
-title: Aspiring Data Scientists
-description: Welcome to my portfolio! This page is still under development.
+title: Kammy Deng
+description: Aspiring and passionated Data Science Fellows, welcome to my portfolio!
 ---
+
+## Welcome
+
+Welcome to my data science portfolio! I'm currently working as a Data Analyst Intern at Evisort specializing in NLP and text mining. To learn more about me, please go to the about me page on the tab above.
+
 ## Data Science Portfolio
+This website is still under development. The content was transferred from one of my github repositories. The original intention of the repository was to track my own progress and use it as reference for interviews, so please forgive some grammatical errors and typos. I'm now trying to create a professional portfolio and publish the contents later, so feel free to check in again to see my updates. You can also contact me on [LinkedIn](https://www.linkedin.com/in/kammy-deng/) for any questions or comments.
+
 
 <!-- <p align="center">
   <img width="600" height="325" src="https://github.com/kammybdeng/data-science-portfolio/blob/master/img/word-cloud3.v2.png">
 </p> -->
 
-Welcome! This website is still under development. The content was transferred from one of my github repositories. The original intention of the repository was to track my own progress and use it as reference for interviews, so please forgive some grammatical errors and typos. I'm now trying to create a professional portfolio and publish the contents, so feel free to check in again to see my updates! You can also contact me on [LinkedIn](https://www.linkedin.com/in/kammy-deng/) for any questions or comments!
 
 <!-- You can build a wordcloud too! See my code [here](https://github.com/kammybdeng/data-science-portfolio/blob/master/extra/wordcloud.py). -->
 
@@ -19,21 +25,26 @@ Welcome! This website is still under development. The content was transferred fr
 - [Database and SQL](#Database-and-SQL)
 - [Projects and more practices](#Data-Science-Projects) -->
 
+## Recent lectures and projects
+
+I'm currently taking these course online. Check out my notes and progress in the links below.
+
+- [Regex](https://github.com/kammybdeng/data-science-portfolio/blob/master/regex.md)
+  - [Link to course](https://www.udemy.com/learn-regular-expressions-in-online-regex-course/)
+
+- [Data Structure Explained](https://github.com/kammybdeng/data-science-portfolio/blob/master/data-structure.md)
+  - [Link to course](https://stepik.org/course/579/)
 
 ## Data Science Concepts
 
 - [General Data Science Concepts](https://github.com/kammybdeng/data-science-notes/blob/master/general_notes/Data_Science_notes.ipynb)
-  - Practical business concepts of data problems (still under development).
+  - Practical business concepts of data problems (**under development**).
 
 - [Statistics](https://github.com/kammybdeng/dsi-interview-prep/blob/master/Stats%20Concepts.ipynb)
-  - Statistics is often used to generate inference hypothesis in our data (still under development).
+  - Statistics is often used to generate inference hypothesis in our data (**under development**).
 
 - [Probability Modeling](https://github.com/kammybdeng/dsi-interview-prep/blob/master/probability%20simulations.ipynb)
-  - Probability is the fundamentals of Statistics. By understanding the behavior of the data distributions, we can justify our methods of statistical analysis (**still under development**).
-
-- [Data Structure Explained](https://github.com/kammybdeng/data-science-portfolio/blob/master/data-structure.md)
-  - I'm currently taking this course online. Check out my notes and progress in the link above!
-  - [Link to course](https://stepik.org/course/579/)
+  - Probability is the fundamentals of Statistics. By understanding the behavior of the data distributions, we can justify our methods of statistical analysis (**under development**).
 
 ## Database and SQL
 
