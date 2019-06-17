@@ -6,10 +6,12 @@ description: Aspiring and passionated Data Science Fellows, welcome to my portfo
 
 ## Welcome
 
-Welcome to my data science portfolio! I'm currently working as a Data Analyst Intern at Evisort specializing in NLP and text mining. To learn more about me, please go to the about me page on the tab above.
+Welcome to my data science portfolio! I'm currently working as a Data Analyst Intern at Evisort specializing in NLP and text mining. To learn more about me, please go to the about page on the tab above.
 
 ## Data Science Portfolio
-This website is still under development. The content was transferred from one of my github repositories. The original intention of the repository was to track my own progress and use it as reference for interviews, so please forgive some grammatical errors and typos. I'm now trying to create a professional portfolio and publish the contents later, so feel free to check in again to see my updates. You can also contact me on [LinkedIn](https://www.linkedin.com/in/kammy-deng/) for any questions or comments.
+This whole website is still under development and is not meant to made public yet. Please forgive my grammatical errors and typos. To see my portfolio please go to the portfolio page on the tab above.
+
+Feel free to check in to see my updates or share your comments or feedback. You can contact me on [LinkedIn](https://www.linkedin.com/in/kammy-deng/) for any questions or comments.
 
 
 <!-- <p align="center">
@@ -27,7 +29,7 @@ This website is still under development. The content was transferred from one of
 
 ## Recent lectures and projects
 
-I'm currently taking these course online. Check out my notes and progress in the links below.
+I'm currently taking these courses online. Check out my notes and progress in the links below.
 
 - [Regex](https://github.com/kammybdeng/data-science-portfolio/blob/master/regex.md)
   - [Link to course](https://www.udemy.com/learn-regular-expressions-in-online-regex-course/)
@@ -35,7 +37,7 @@ I'm currently taking these course online. Check out my notes and progress in the
 - [Data Structure Explained](https://github.com/kammybdeng/data-science-portfolio/blob/master/data-structure.md)
   - [Link to course](https://stepik.org/course/579/)
 
-## Data Science Concepts
+<!-- ## Data Science Concepts
 
 - [General Data Science Concepts](https://github.com/kammybdeng/data-science-notes/blob/master/general_notes/Data_Science_notes.ipynb)
   - Practical business concepts of data problems (**under development**).
@@ -58,4 +60,4 @@ I'm currently taking these course online. Check out my notes and progress in the
   - A repository consists of take home exercises from the book, "A collection of Data Science Take-homes.
 
 - [Python Challenges](https://github.com/kammybdeng/dsi-interview-prep/blob/master/python%20challenge/Python%20challenges.ipynb)
-  - Python Challenges from leetcode, codewar and more.
+  - Python Challenges from leetcode, codewar and more. -->
