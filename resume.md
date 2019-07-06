@@ -10,9 +10,8 @@ description: Welcome to my portfolio! This page is still under development.
 
 ## Data Analyst Intern - Evisort
  >  Jun 2019 - Present
- -  xyz
- -  xyz
- -  xyz
+ -  text mining and NLP modeling with various tree-based and deep learning algorithms
+
 
 ## Data Analyst - Whosup Inc.
 >  Aug 2018 - Jun 2019
@@ -23,9 +22,7 @@ description: Welcome to my portfolio! This page is still under development.
 
 ## Data Science Fellow - Galvanize
 >  Feb 2018 - May 2018
-  - xyz
-  - xyz
-  - xyz
+- Participated in an intensive three-month, 700+ hour Data Science program, covering topics including probability and statistics, database management, supervised and unsupervised machine learning algorithms, data visualization, and big data tools, such as Spark and AWS.
 
 # Education
 
@@ -37,6 +34,6 @@ description: Welcome to my portfolio! This page is still under development.
 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/AB92KGJAV69K) - Coursera
 - [CSE100x: Data Structures](https://stepik.org/course/579/) (on-going) - UCSanDiegoX
 - [CSE100x notes](https://github.com/kammybdeng/data-science-portfolio/blob/master/data-structure.md)
-
+- [Complete Regular Expressions Bootcamp - Go from zero to hero](https://www.udemy.com/certificate/UC-8Y63NESB/)
 
 [Back to Homepage](./)
