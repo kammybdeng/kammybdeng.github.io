@@ -1,18 +1,39 @@
 ---
 layout: default
-title: Kammy Deng
-description: Aspiring and passionated Data Science Fellows, welcome to my portfolio!
+title: Data Science Portfolio
+description: Welcome to my portfolio!
 ---
 
 ## Welcome
 
-Welcome to my data science portfolio! I'm currently working as a Data Analyst Intern at Evisort specializing in NLP and text mining. To learn more about me, please go to the about page on the tab above.
+Hi, welcome to my data science portfolio. I'm currently working as a Data Analyst/Scientist at Evisort specializing in ETL pipeline building and NLP modeling with TensorFlow. To learn more about me, please click [here](https://kammybdeng.github.io/about).
+
 
 ## Data Science Portfolio
-This whole website is still under development and is not meant to made public yet. Please forgive my grammatical errors and typos. To see my portfolio please go to the portfolio page on the tab above.
+### NLP 
+- [Quora Insincere Questions Classification - Kaggle](https://github.com/kammybdeng/quora-insincere-question)
+	- Text Classification with GloVe embeddings and Bi-LSTM modeling in Keras
 
-Feel free to check in to see my updates or share your comments or feedback. You can contact me on [LinkedIn](https://www.linkedin.com/in/kammy-deng/) for any questions or comments.
+- [Data Science Repo](https://github.com/kammybdeng/data-science-notes/blob/master/general_notes/Data_Science_notes.ipynb)
+  - A personal repository that consists of data science notes, take-home projects, Leetcode coding practices that I used for interview preparation.
 
+## Database and SQL
+
+- [Database Explained](https://github.com/kammybdeng/data-science-notes/blob/master/database-explained.ipynb)
+- [SQL Exercises](https://github.com/kammybdeng/data-science-notes/blob/master/sql_exercises.ipynb)
+
+## My recent learnings and projects
+
+On-Going
+- [UCSD Data Structures](https://stepik.org/course/579/)
+  - [Notes and progress](https://github.com/kammybdeng/data-science-portfolio/blob/master/data-structure.md)
+
+Completed
+- [Regex](https://www.udemy.com/learn-regular-expressions-in-online-regex-course/)
+  - [Notes and progress](https://github.com/kammybdeng/data-science-portfolio/blob/master/regex.md)
+
+
+Feel free to connect with me or share your comments! You can contact me on [LinkedIn](https://www.linkedin.com/in/kammy-deng/) for any question or comment!
 
 <!-- <p align="center">
   <img width="600" height="325" src="https://github.com/kammybdeng/data-science-portfolio/blob/master/img/word-cloud3.v2.png">
@@ -27,15 +48,6 @@ Feel free to check in to see my updates or share your comments or feedback. You 
 - [Database and SQL](#Database-and-SQL)
 - [Projects and more practices](#Data-Science-Projects) -->
 
-## Recent lectures and projects
-
-I'm currently taking these courses online. Check out my notes and progress in the links below.
-
-- [Regex](https://github.com/kammybdeng/data-science-portfolio/blob/master/regex.md)
-  - [Link to course](https://www.udemy.com/learn-regular-expressions-in-online-regex-course/)
-
-- [Data Structure Explained](https://github.com/kammybdeng/data-science-portfolio/blob/master/data-structure.md)
-  - [Link to course](https://stepik.org/course/579/)
 
 <!-- ## Data Science Concepts
 

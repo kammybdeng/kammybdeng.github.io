@@ -1,15 +1,10 @@
 ---
 layout: default
 title: Data Science Portfolio
-description: This page is still under development.
+description: 
 ---
 
 ## Data Science Concepts
-This website is still under development.
-
-The original intent was to track my own progress and use it as a reference for interviews, so please forgive some of my grammatical errors and typos. I'm now trying to create a professional portfolio and publish the content later.
-
-Feel free to check in again to see my updates. You can also contact me on [LinkedIn](https://www.linkedin.com/in/kammy-deng/) for any questions or comments.
 
 - [General Data Science Concepts](https://github.com/kammybdeng/data-science-notes/blob/master/general_notes/Data_Science_notes.ipynb)
   - Practical business concepts of data problems (**under development**).

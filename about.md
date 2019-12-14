@@ -5,18 +5,16 @@ description: Learn about me in 10, 30 sec or 3 minutes! This page is still under
 ---
 
 ## Me in 10 seconds
-- Just started as a Data Analyst Intern specialized in NLP and text mining.
-- Previously a Data Anaylst at a small social media startup
+- Data Analyst/Scientist at Evisort working with Name Entity Recognition models in TensorFlow.
 - Galvanize Data Science Bootcamp 2018 Alumni
-- B.S. in Mathematics from UC Irvine. A proud Anteater!
+- Bachelors of Science in Mathematics
+- UC Irvine 2017 Alumni. A proud Anteater!
 - Inquisitive, optimistic, and adaptive  
 
 ## Me in 30 seconds
 - Developed my interest in Data Science from my first CS class during my sophomore year in college
-- Want to combine my math skills with programming to build something meaningful
-- Applied and attended an intensive bootcamp with PhDs and professionals
-- Have been doing side projects like Kaggle and online Data Science and CS courses
-- Enjoy traveling and exploring new places on my free time
+- Attended an intensive data science bootcamp working with PhDs and experienced professionals
+- Constructed a recommender system with a website interface and an object oriented model class.
 - To be continued...
 
 ## My life in 3 minutes
