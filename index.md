@@ -10,19 +10,19 @@ Hi, welcome to my data science portfolio. I'm currently working as a Data Analys
 
 
 ## Data Science Portfolio
-### NLP 
+**NLP** 
 - [Quora Insincere Questions Classification - Kaggle](https://github.com/kammybdeng/quora-insincere-question)
 	- Text Classification with GloVe embeddings and Bi-LSTM modeling in Keras
 
-- [Data Science Repo](https://github.com/kammybdeng/data-science-notes/blob/master/general_notes/Data_Science_notes.ipynb)
+- [Data Science Repo](https://github.com/kammybdeng/data-science-portfolio)
   - A personal repository that consists of data science notes, take-home projects, Leetcode coding practices that I used for interview preparation.
 
-## Database and SQL
+**Database and SQL**
 
 - [Database Explained](https://github.com/kammybdeng/data-science-notes/blob/master/database-explained.ipynb)
 - [SQL Exercises](https://github.com/kammybdeng/data-science-notes/blob/master/sql_exercises.ipynb)
 
-## My recent learnings and projects
+**My recent learnings and projects**
 
 On-Going
 - [UCSD Data Structures](https://stepik.org/course/579/)

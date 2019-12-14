@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About me
-description: Learn about me in 10, 30 sec or 3 minutes! This page is still under development.
+description: Learn about me in 10, 30 sec or 3 minutes! 
 ---
 
 ## Me in 10 seconds

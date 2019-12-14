@@ -7,13 +7,13 @@ description:
 ## Data Science Concepts
 
 - [General Data Science Concepts](https://github.com/kammybdeng/data-science-notes/blob/master/general_notes/Data_Science_notes.ipynb)
-  - Practical business concepts of data problems (**under development**).
+  - Practical business concepts of data problems.
 
 - [Statistics](https://github.com/kammybdeng/dsi-interview-prep/blob/master/Stats%20Concepts.ipynb)
-  - Statistics is often used to generate inference hypothesis in our data (**under development**).
+  - Statistics is often used to generate inference hypothesis in our data.
 
 - [Probability Modeling](https://github.com/kammybdeng/dsi-interview-prep/blob/master/probability%20simulations.ipynb)
-  - Probability is the fundamentals of Statistics. By understanding the behavior of the data distributions, we can justify our methods of statistical analysis (**under development**).
+  - Probability is the fundamentals of Statistics. By understanding the behavior of the data distributions, we can justify our methods of statistical analysis.
 
 ## Database and SQL
 
