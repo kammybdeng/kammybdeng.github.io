@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Data Science Portfolio
-description: Welcome to my portfolio!
+title: Portfolio
+description: Kammy Deng!
 ---
 
 ## Welcome
 
-Hi, welcome to my data science portfolio. I'm currently working as a Data Analyst/Scientist at Evisort specializing in ETL pipeline building and NLP modeling with TensorFlow. To learn more about me, please click [here](https://kammybdeng.github.io/about).
+Hi, welcome to my data science portfolio. I'm currently working as a Product Data Scientist at Evisort specializing in ETL pipeline building and NLP modeling with TensorFlow. To learn more about me, please click [here](https://kammybdeng.github.io/about).
 
 
 ## Data Science Portfolio
