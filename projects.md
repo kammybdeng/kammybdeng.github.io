@@ -8,13 +8,15 @@ description: Data Science projects
 
 #### Kaggle Competition
 - [Quora Insincere Question Classification](https://github.com/kammybdeng/quora-insincere-question)
-  - Text classification
+  - Built and optimized multiple LSTM, GRU, and Naive Bayes models to classify whether a Quora question is insincere. Composed a github write-up on the project progress and results.
+
 - [Jigsaw Unintended Bias in Toxicity Classification](https://github.com/kammybdeng/jigsaw-unintended-bia)
   - Improve models that incorrectly learned to associate the names of frequently attacked identities with toxicity
 - My Kaggle account [here](https://www.kaggle.com/kammybdeng)
 
-#### Case Studies and Capstone Projects
-- [Capstone Project](https://github.com/kammybdeng/travel-time-rec) (Recommender and website)
+#### Case Studies and Personal Projects
+- [Traveling recommender](https://github.com/kammybdeng/travel-time-rec) (Recommender and website)
+	- Analyzed and transformed 1,000+ TripAdviser text reviews, star ratings, and personality scores. Utilized PySpark's ALS matrix factorization algorithm to build a collaborative filtering recommender. Developed a local web application for the model in PySpark and Flask.
 - [Analytics Case Study](https://github.com/kammybdeng/churn-analysis-case-study) (Business Impacts)
 
 

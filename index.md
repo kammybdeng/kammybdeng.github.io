@@ -1,21 +1,22 @@
 ---
 layout: default
 title: Data Science Portfolio
-description: Data Science, Machine Learning, NLP, and more
+description: Data Science, Machine Learning, NLP, product, and more
 ---
 
 ## Welcome
 
-Welcome to my Data Science Portfolio! I'm currently working as a Product Data Scientist at Evisort specializing in designing, buliding, and analyzing new features and NLP models. 
-
-## Data Science Portfolio
-[Portfolio](https://kammybdeng.github.io/portfolio)
+Welcome to my Data Science Portfolio. I'm currently working as a Product Data Scientist at Evisort specializing in designing, buliding, and analyzing new features and NLP models. 
 
 ## Data Science Projects
 [Projects](https://kammybdeng.github.io/projects)
 
+## Data Science Portfolio
+[Portfolio](https://kammybdeng.github.io/portfolio)
+
 ## Resume and more about me 
 
+[Resume](https://kammybdeng.github.io/resume)
 [About me](https://kammybdeng.github.io/about)
 
 <!-- **Database and SQL**
@@ -23,7 +24,7 @@ Welcome to my Data Science Portfolio! I'm currently working as a Product Data Sc
 - [Database Explained](https://github.com/kammybdeng/data-science-notes/blob/master/database-explained.ipynb)
 - [SQL Exercises](https://github.com/kammybdeng/data-science-notes/blob/master/sql_exercises.ipynb)
  -->
-You can contact me on [LinkedIn](https://www.linkedin.com/in/kammy-deng/) for any question or comment!
+You can contact me on [LinkedIn](https://www.linkedin.com/in/kammy-deng/) for any question or comment.
 
 <!-- <p align="center">
   <img width="600" height="325" src="https://github.com/kammybdeng/data-science-portfolio/blob/master/img/word-cloud3.v2.png">
