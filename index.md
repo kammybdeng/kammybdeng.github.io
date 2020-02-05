@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Data Science Portfolio
-description: Data Science, Machine Learning, NLP, product, and more
+title: Home
+description: Kammy's professonal website
 ---
 
 ## Welcome
@@ -16,8 +16,8 @@ Welcome to my Data Science Portfolio. I'm currently working as a Product Data Sc
 
 ## Resume and more about me 
 
-[Resume](https://kammybdeng.github.io/resume)
-[About me](https://kammybdeng.github.io/about)
+- [Resume](https://kammybdeng.github.io/resume)
+- [About me](https://kammybdeng.github.io/about)
 
 <!-- **Database and SQL**
 

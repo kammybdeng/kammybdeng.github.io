@@ -26,6 +26,10 @@ Data Science Fellow - Galvanize
 ## Education
 
 University of California, Irvine - Bachelors in Financial Mathematics
+>	Sept 2013 - Jun 2017
+
 Galvanize Inc. - Data Science Fellow
+> 	2018
+
 
 [Back to Homepage](./)
