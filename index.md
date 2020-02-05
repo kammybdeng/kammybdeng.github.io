@@ -1,39 +1,29 @@
 ---
 layout: default
-title: Portfolio
-description: Kammy Deng!
+title: Data Science Portfolio
+description: Data Science, Machine Learning, NLP, and more
 ---
 
 ## Welcome
 
-Hi, welcome to my data science portfolio. I'm currently working as a Product Data Scientist at Evisort specializing in ETL pipeline building and NLP modeling with TensorFlow. To learn more about me, please click [here](https://kammybdeng.github.io/about).
-
+Welcome to my Data Science Portfolio! I'm currently working as a Product Data Scientist at Evisort specializing in designing, buliding, and analyzing new features and NLP models. 
 
 ## Data Science Portfolio
-**NLP** 
-- [Quora Insincere Questions Classification - Kaggle](https://github.com/kammybdeng/quora-insincere-question)
-	- Text Classification with GloVe embeddings and Bi-LSTM modeling in Keras
+[Portfolio](https://kammybdeng.github.io/portfolio)
 
-- [Data Science Repo](https://github.com/kammybdeng/data-science-portfolio)
-  - A personal repository that consists of data science notes, take-home projects, Leetcode coding practices that I used for interview preparation.
+## Data Science Projects
+[Projects](https://kammybdeng.github.io/projects)
 
-**Database and SQL**
+## Resume and more about me 
+
+[About me](https://kammybdeng.github.io/about)
+
+<!-- **Database and SQL**
 
 - [Database Explained](https://github.com/kammybdeng/data-science-notes/blob/master/database-explained.ipynb)
 - [SQL Exercises](https://github.com/kammybdeng/data-science-notes/blob/master/sql_exercises.ipynb)
-
-**My recent learnings and projects**
-
-On-Going
-- [UCSD Data Structures](https://stepik.org/course/579/)
-  - [Notes and progress](https://github.com/kammybdeng/data-science-portfolio/blob/master/data-structure.md)
-
-Completed
-- [Regex](https://www.udemy.com/learn-regular-expressions-in-online-regex-course/)
-  - [Notes and progress](https://github.com/kammybdeng/data-science-portfolio/blob/master/regex.md)
-
-
-Feel free to connect with me or share your comments! You can contact me on [LinkedIn](https://www.linkedin.com/in/kammy-deng/) for any question or comment!
+ -->
+You can contact me on [LinkedIn](https://www.linkedin.com/in/kammy-deng/) for any question or comment!
 
 <!-- <p align="center">
   <img width="600" height="325" src="https://github.com/kammybdeng/data-science-portfolio/blob/master/img/word-cloud3.v2.png">

@@ -28,3 +28,13 @@ description:
 
 - [Python Challenges](https://github.com/kammybdeng/dsi-interview-prep/blob/master/python%20challenge/Python%20challenges.ipynb)
   - Python Challenges from leetcode, codewar and more.
+
+## Online classes
+
+In progress:
+- [CSE100x: Data Structures](https://stepik.org/course/579/) - UCSanDiegoX
+- [CSE100x notes](https://github.com/kammybdeng/data-science-portfolio/blob/master/data-structure.md)
+
+Completed:
+- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/AB92KGJAV69K) - Coursera
+- [Complete Regular Expressions Bootcamp - Go from zero to hero](https://www.udemy.com/certificate/UC-8Y63NESB/)
