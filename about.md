@@ -6,7 +6,7 @@ description: A quick way to learn about me in 10, 30 seconds or 3 minutes!
 
 ## Me in 10 seconds
 - A Data Scientist working with Name Entity Recognition and classification models at Evisort
-- Attended Galvanize Data Science Bootcamp 2018 Alumni
+- Attended Galvanize Data Science Bootcamp in Spring 2018 
 - Obtained my Bachelors of Science in Mathematics from UC Irvine in 2017
 - I'm an inquisitive and adaptive, quick learner
 - Constantly improving my Data and Programming skills through small projects

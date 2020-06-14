@@ -8,10 +8,10 @@ description: Data Science projects
 
 #### Kaggle Competitions
 - [Quora Insincere Question Classification](https://github.com/kammybdeng/quora-insincere-question)
-  - Built and optimized multiple LSTM, GRU, and Naive Bayes models to classify whether a Quora question is insincere. Composed a github write-up on the project progress and results.
+  - Built and optimized multiple LSTM, GRU, and Naive Bayes models to classify whether a Quora question is insincere. Composed a Github write-up on the project progress and results.
 
 - [Jigsaw Unintended Bias in Toxicity Classification](https://github.com/kammybdeng/jigsaw-unintended-bia)
-  - Improve models that incorrectly learned to associate the names of frequently attacked identities with toxicity
+  - Improved models that had been incorrectly learned to associate the names of frequently attacked identities with toxicity
 
 #### Case Studies and Personal Projects
 - [Traveling recommender](https://github.com/kammybdeng/travel-time-rec) (Recommender and website)

@@ -8,13 +8,13 @@ description: Data Science/NLP/Software Engineering/Product
 
 Hi, welcome to my Data Science Portfolio! I'm currently working as a Data Scientist at Evisort specializing in designing, building, and optimizing NLP and classification models. You can learn more about in the following sections.
 
-### About me
+#### About me
 [About me](https://kammybdeng.github.io/about)
 
-### Data Science Projects
+#### Data Science Projects
 [Data Science Projects](https://kammybdeng.github.io/projects)
 
-## My Portfolio
+#### My Portfolio
 [My Portfolio](https://kammybdeng.github.io/portfolio)
 
 

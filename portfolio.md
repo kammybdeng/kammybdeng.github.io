@@ -31,4 +31,4 @@ Completed:
   - A repository consists of take home exercises from the book, "A collection of Data Science Take-homes.
 
 - [Python Challenges](https://github.com/kammybdeng/dsi-interview-prep/blob/master/python%20challenge/Python%20challenges.ipynb)
-  - Python Challenges from leetcode, codewar and more.
+  - Python Challenges from Leetcode, Codewar and more.
