@@ -1,23 +1,22 @@
 ---
 layout: default
-title: Home
-description: Kammy's professonal website
+title: Welcome to my website
+description: Data Science/NLP/Software Engineering/Product
 ---
 
 ## Welcome
 
-Welcome to my Data Science Portfolio. I'm currently working as a Product Data Scientist at Evisort specializing in designing, buliding, and analyzing new features and NLP models. 
+Hi, welcome to my Data Science Portfolio! I'm currently working as a Data Scientist at Evisort specializing in designing, building, and optimizing NLP and classification models. You can learn more about in the following sections.
 
-## Data Science Projects
-[Projects](https://kammybdeng.github.io/projects)
+### About me
+[About me](https://kammybdeng.github.io/about)
 
-## Data Science Portfolio
-[Portfolio](https://kammybdeng.github.io/portfolio)
+### Data Science Projects
+[Data Science Projects](https://kammybdeng.github.io/projects)
 
-## Resume and more about me 
+## My Portfolio
+[My Portfolio](https://kammybdeng.github.io/portfolio)
 
-- [Resume](https://kammybdeng.github.io/resume)
-- [About me](https://kammybdeng.github.io/about)
 
 <!-- **Database and SQL**
 
