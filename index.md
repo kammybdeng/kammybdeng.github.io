@@ -21,11 +21,11 @@ I'm currently self-learning Django by doing small projects. A [blog sharing weba
 
 #### My Learnings
 ##### Data Science and Machine Learning
-- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/AB92KGJAV69K) - completed
+[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/AB92KGJAV69K) - completed
 ##### Data Structures
-- [CSE100x: Data Structures](https://github.com/kammybdeng/data-science-portfolio/blob/master/data-structure.md) - in-progress
+[CSE100x: Data Structures](https://github.com/kammybdeng/data-science-portfolio/blob/master/data-structure.md) - in-progress
 ##### Others
-- [Complete Regular Expressions Bootcamp - Go from zero to hero](https://www.udemy.com/certificate/UC-8Y63NESB/) - completed
+[Complete Regular Expressions Bootcamp - Go from zero to hero](https://www.udemy.com/certificate/UC-8Y63NESB/) - completed
 
 
 
