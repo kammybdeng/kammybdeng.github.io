@@ -15,12 +15,12 @@ Hello! Welcome to my website!
 - Enjoy learning Data Science and Programming in my free time
 
 #### New Projects
-[weather application](https://weather-app100.herokuapp.com/)
+[weather application](https://github.com/kammybdeng/weather_flask_webapp)
 
 
 #### Data Science 
-[Projects](https://kammybdeng.github.io/projects)
-[SQL Practices](https://github.com/kammybdeng/data-science-portfolio/blob/master/sql-exercises.ipynb)
+- [Projects](https://kammybdeng.github.io/projects)
+- [SQL Practices](https://github.com/kammybdeng/data-science-portfolio/blob/master/sql-exercises.ipynb)
 
 
 #### My Learnings
